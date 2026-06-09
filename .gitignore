@@ -1,0 +1,14 @@
+# Local server credentials and setup notes
+*.docx
+*サーバ設定*
+
+# Local deployment/build workspaces
+deploy/
+server-backups/
+
+# Helper scripts used for one-off server maintenance
+tools/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
