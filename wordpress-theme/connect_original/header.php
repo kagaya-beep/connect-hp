@@ -195,7 +195,7 @@ $(function(){
  <li class="sp"><a href="<?php echo home_url('privacy'); ?>">個人情報保護方針</a></li>
 <li class="sp">
 <a href="https://download.teamviewer.com/download/TeamViewerQS_x64.exe?utm_source=google&utm_medium=cpc&utm_campaign=jp%7Cb%7Cpr%7C22%7Csep%7Cexact-tv-combi-download-sn%7Cnew%7Ct0%7C0&utm_content=exact-tv-combi%7Cgeneral&utm_term=teamviewer+quick+support" target="_blank">リモートサポートをご希望の方[TeamViewer]<br><img src="<?php bloginfo('template_directory'); ?>/images/goto_teamviewer_sp.png" alt="teamviewer"></a>
-<a href="https://anydesk.com/ja/downloads/thank-you?dv=win_exe" target="_blank">リモートサポートをご希望の方[AnyDesk]<br><img src="<?php bloginfo('template_directory'); ?>/images/goto_anydesk_sp.png" alt="anydesk"></a></li>
+</li>
 
 </ul>
 
@@ -209,7 +209,7 @@ $(function(){
 </dt>
     <dd class="pc head_team">リモートサポートをご希望の方<br>
 <div class="head_team_box">
-<a href="https://download.teamviewer.com/download/TeamViewerQS_x64.exe?utm_source=google&utm_medium=cpc&utm_campaign=jp%7Cb%7Cpr%7C22%7Csep%7Cexact-tv-combi-download-sn%7Cnew%7Ct0%7C0&utm_content=exact-tv-combi%7Cgeneral&utm_term=teamviewer+quick+support" target="_blank"><img class="" src="<?php bloginfo('template_directory'); ?>/images/goto_teamviewer02.png" alt="Teamviewer"></a><a href="https://anydesk.com/ja/downloads/thank-you?dv=win_exe" target="_blank"><img class="" src="<?php bloginfo('template_directory'); ?>/images/goto_anydesk02.png" alt="anydesk"></a></div><!--/head_team_box--></dd>
+<a href="https://download.teamviewer.com/download/TeamViewerQS_x64.exe?utm_source=google&utm_medium=cpc&utm_campaign=jp%7Cb%7Cpr%7C22%7Csep%7Cexact-tv-combi-download-sn%7Cnew%7Ct0%7C0&utm_content=exact-tv-combi%7Cgeneral&utm_term=teamviewer+quick+support" target="_blank"><img class="" src="<?php bloginfo('template_directory'); ?>/images/goto_teamviewer02.png" alt="Teamviewer"></a></div><!--/head_team_box--></dd>
 </dl>
 
 
