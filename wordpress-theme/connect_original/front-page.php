@@ -43,7 +43,7 @@
 クラウド型ビジネスフォン</span>
 
 クラウド型ビジネスフォン（クラウドPBX）とは、電話回線の会社に設置されている交換機（PBX）をクラウド化するサービスです。<br>
-導入実績33,000社突破。品質とサポートが評価され7年連続で利用社数が純増中。クラウドPBX「MOT/TEL」についてはこちらをご覧ください。<br>
+導入実績33,000社突破。品質とサポートが評価され9年連続で利用社数が純増中。クラウドPBX「MOT/TEL」についてはこちらをご覧ください。<br>
 <br>
 <p class="top_service_button"><a href="<?php echo home_url('pbx'); ?>" >クラウドPBX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i></a></p>
 </dd>

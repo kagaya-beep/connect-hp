@@ -107,9 +107,9 @@
           <p>
             「クラウドPBX MOT/TEL（モッテル）」は、アプリ/ソフトやGateway・データセンターのPBXなど全て自社開発。<br class="sp_none">
 使いやすさとマニュアルなどサポートも充実しているため、他社サービスから乗り換えによる利用者様も増加しています。<br class="sp_none">
-また、長年の研究開発の成果である品質も評価されサービス開始以来、7年連続で利用社数が純増中。<br class="sp_none">
+また、長年の研究開発の成果である品質も評価されサービス開始以来、9年連続で利用社数が純増中。<br class="sp_none">
 MOTシリーズの累計導入数も33,000社を超えています。</p>
-          <div style="text-align:center;margin-bottom:20px;"><img src="img/aug23_index_img/mottel_junzou_graph.webp" alt="7年連続で利用社数が純増中"></div>
+          <div style="text-align:center;margin-bottom:20px;"><img src="img/aug23_index_img/mottel_junzou_graph.webp?ver=20260728-1740" alt="9年連続で利用社数が純増中"></div>
 
         </div>
     </section>
