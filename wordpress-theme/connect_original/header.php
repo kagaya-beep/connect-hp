@@ -122,7 +122,7 @@ echo '<meta property="og:image" content="http://connect-web.jp/images/ogp.jpg">'
 <?php wp_head(); ?>
 <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/css/reset.css" media="all">
 <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/css/common.css" media="all">
-<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/style.css?ver=20260702-1202" media="all">
+<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/style.css?ver=20260728-1620" media="all">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
 <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/js/slick/slick.css" />
 <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/js/slick/slick-theme.css" />
