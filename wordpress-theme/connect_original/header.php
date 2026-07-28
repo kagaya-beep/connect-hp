@@ -185,11 +185,7 @@ $(function(){
 
     </li>
     <li class="lsize hvr-underline-center"><a href="<?php echo home_url('cat-useful'); ?>">お役立ち情報</a></li>
-    <li class="hvr-underline-center"><a href="javascript:void(0)">会社概要</a>
-    <ul>
-        <li class="hvr-underline-center"><a href="<?php echo home_url('aboutus'); ?>">会社情報</a></li>
-    </ul>
-    </li>
+    <li class="hvr-underline-center"><a href="<?php echo home_url('aboutus'); ?>">会社概要</a></li>
     <li class="hvr-underline-center"><a href="<?php echo home_url('recruit'); ?>">採用情報</a></li>
  <li class="sp"><a href="<?php echo home_url('contact'); ?>">お問い合わせ</a></li>
  <li class="sp"><a href="<?php echo home_url('privacy'); ?>">個人情報保護方針</a></li>
