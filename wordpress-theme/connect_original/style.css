@@ -533,25 +533,30 @@ dd.head_team{
       color: #2b76a8;
       font-weight: bold;
       text-align: center;
-font-size:1.3rem;
+font-size:1.5rem;
+line-height:1.3;
 display: block;
-padding-top: 16px;
+padding-top: 12px;
 }
 dd.head_team .head_team_box{
 display: flex;
 align-items: center;
 justify-content: center;
-height: 40px;
-padding-top: 10px;
+height: 52px;
+padding-top: 4px;
 }
 dd.head_team .head_team_box a{
-display: block;
+display: flex;
+align-items: center;
+justify-content: center;
 width: 100%;
-height: 40px;
+height: 100%;
 }
 dd.head_team .head_team_box a img{
-text-align: center;
-padding-top: 10px;
+width: 160px;
+max-width: 160px;
+height: auto;
+padding-top: 0;
 }
 
  #g_menu li a{
