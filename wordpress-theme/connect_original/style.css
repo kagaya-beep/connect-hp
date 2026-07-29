@@ -2734,6 +2734,10 @@ display: flex;
 flex-wrap:wrap;
 justify-content: space-between;
 }
+.payment_wrap_4 > .list_reason{
+margin-left: 0;
+margin-right: 0;
+}
 @media print, screen and (min-width : 721px) {
 .payment_wrap_4{
 width:928px;
